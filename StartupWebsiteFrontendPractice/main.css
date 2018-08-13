@@ -1,0 +1,35 @@
+#content {
+  padding-top: 25%;
+  text-align: center;
+  text-shadow: 0 4px 3px rgba(0, 0, 0, 0.4), 0 8px 13px rgba(0, 0, 0, 0.1), 0 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+div>div>div>div>hr {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: 1px solid #f8f8f8;
+  height: 2px;
+  width: 550px;
+}
+
+div>div>div>div>.btn {
+  background-color: white;
+  box-shadow: 0 4px 3px rgba(0, 0, 0, 0.4);
+  color: Black;
+}
+
+html {
+  height: 100%;
+}
+
+html>body {
+  background: url(dog1.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: Lato;
+}
+
+div>div>div>div>h1, h3 {
+  font-size: 5em;
+  font-weight: 700;
+}
