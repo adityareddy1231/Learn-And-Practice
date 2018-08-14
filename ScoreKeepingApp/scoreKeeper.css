@@ -1,0 +1,62 @@
+body {
+  background: #555;
+}
+
+.content {
+  background: white;
+  margin: auto;
+  max-width: 750px;
+  padding: 10px;
+}
+
+h1 {
+  font-family: monospace;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  font-family: monospace;
+  padding-top: 20px;
+}
+
+form {
+  margin: 0 auto;
+  text-align: center;
+}
+
+input {
+  border: 2px solid red;
+  font-size: 150%;
+  font-style: oblique;
+  height: 50px;
+  text-align: center;
+  width: 250px;
+}
+
+button {
+  background-color: gray;
+  border: 2px solid red;
+  color: black;
+  /* height: 10%; */
+  font-size: 200%;
+  font-style: oblique;
+  /* width: 25%; */
+  text-shadow: 1px;
+}
+
+.player1, .player2 {
+  color: red;
+  font-family: monospace;
+  font-size: 175%;
+}
+
+.winner {
+  color: green;
+  font-family: monospace;
+  font-size: 175%;
+}
+
+.green {
+  color: green;
+}
