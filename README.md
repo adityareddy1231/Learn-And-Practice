@@ -9,5 +9,6 @@ Node
 Express
 EJS
 APIs
+Authentication
 
 More will be added to the list as I progress through my curriculum.
